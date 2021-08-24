@@ -1,6 +1,6 @@
 # Welcome to Lambda School Data Science - Unit 1!
 
-## Sprint 2: Statistics
+## Sprint 2: Statistics test
 
 In the repository, you will find the Guided Projects (lectures) and Module Projects (assignment) for each module.
 
